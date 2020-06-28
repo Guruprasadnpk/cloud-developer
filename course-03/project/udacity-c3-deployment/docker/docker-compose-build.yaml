@@ -7,11 +7,11 @@ services:
   backend_user:
     build:
       context: ../../udacity-c3-restapi-user
-    image: gurppup/udacity-restapi-user
+    image: gurppup/udacity-backend-user
   backend_feed:
     build:
       context: ../../udacity-c3-restapi-feed  
-    image: gurppup/udacity-restapi-feed
+    image: gurppup/udacity-backend-feed
   frontend:
     build:
       context: ../../udacity-c3-frontend  
