@@ -6,6 +6,6 @@ data:
   AWS_REGION: us-west-2
   POSTGRESS_DATABASE: udagramgurudev
   POSTGRESS_HOST: udagramgurudev.clll1nd9hl0z.us-west-2.rds.amazonaws.com
-  URL: http://localhost:8100  
+  URL: http://d1u9swa4lb4mao.cloudfront.net 
 metadata:
   name: env-config
